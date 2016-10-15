@@ -1,1 +1,1 @@
-Created this Repository for the software carpentary workshop
+Created this Repository for the software carpentary workshop.
